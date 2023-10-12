@@ -1,12 +1,15 @@
-# Ball-Direction
+SIMULATION BALL MOVEMENT
 
-     #In a Ball-Direction a ball is made to move in vertical in fixed velocity. The ball moves in top 
-to bottm and wise verse which refers to be bouncing.The ball is made to move in x and y axis.
+Description:
 
-**Steps to Run The Project**
+This HTML page displays a continuous bouncing red ball animation within a rectangular area, controlled by JavaScript using the setInterval function with a 500-millisecond interval.
 
-        Open the Github link to run the Ball-Direction program
-         
-**Future Improvements**
+How to run the code:
 
-          The project can be further enchanced by creating an animation like boy bouncing the ball
+Step 1: Save the HTML file with a .html extension.
+
+Step 2: Install the Live Server extension in Visual Studio Code, then click the "Go Live" button at the bottom right corner of the VSCode window to open a new browser window displaying the ball-moving animation.
+
+Future improvement:
+
+consider adding user interaction features like mouse or keyboard control to change the ball's direction or speed, or adding obstacles or targets for the ball to interact with, creating a more engaging and interactive animation.
